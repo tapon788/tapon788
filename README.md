@@ -76,8 +76,8 @@ My approach combines domain expertise, analytical thinking and software developm
 
 ## Connect With Me
 
-- LinkedIn: [Add your LinkedIn profile]
-- Email: [Add your professional email]
+- LinkedIn: https://www.linkedin.com/in/tapon-paul-58507970/
+- Email: tapon788@gmail.com
 - Portfolio: [Coming soon]
 
 
