@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Tapon Paul
 
 ### Telecom Engineer | Software Developer | Data Engineering & AI
